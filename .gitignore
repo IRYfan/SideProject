@@ -1,0 +1,21 @@
+*.log
+data/
+
+# Build output
+**/target/
+**/build/
+
+# IDEs
+.idea/
+*.iml
+*.ipr
+*.iws
+.classpath
+.project
+.settings/
+.springBeans
+.sts4-cache
+.vscode/
+
+# Misc
+nul
